@@ -17,7 +17,7 @@ tags:
 Vous adorez la nature et le grand confort ? La Bulle des Anges est pour vous. En forme de globe transparent, vous vivrez la nature à l’état pur, dans un lit bien moelleux. Un spa et un hammam privatifs sont mis à votre disposition. Nous vous accueillons depuis le 24 août 2017.
 
 
-![]https://raw.githubusercontent.com/datatiph/noel18/master/assets/images/bulle-1.jpg)
+![](https://raw.githubusercontent.com/datatiph/noel18/master/assets/images/bulle-1.jpg)
 
 Et pourquoi pas une nuit à la belle étoile ?
 
